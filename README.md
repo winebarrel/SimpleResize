@@ -1,5 +1,8 @@
 # SimpleResize
 
+[![Build](https://github.com/winebarrel/SimpleResize/actions/workflows/build.yml/badge.svg)](https://github.com/winebarrel/SimpleResize/actions/workflows/build.yml)
+[![AI Generated](https://img.shields.io/badge/AI%20Generated-Claude-orange?logo=anthropic)](https://claude.ai/claude-code)
+
 iOS向けのシンプルな画像リサイズアプリです。
 
 <img src="screenshots/01_main.png" width="300">
