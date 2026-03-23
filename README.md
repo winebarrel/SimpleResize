@@ -1,4 +1,7 @@
-# SimpleResize
+# SimpleResize [![CI](https://github.com/winebarrel/HatebuFilter/actions/workflows/ci.yml/badge.svg)](https://github.com/winebarrel/HatebuFilter/actions/workflows/ci.yml) [![AI Generated](https://img.shields.io/badge/AI%20Generated-Claude-orange?logo=anthropic)](https://claude.ai/claude-code)
+
+
+[![](https://github.com/user-attachments/assets/e5fdb92f-a996-476f-8bb0-aa05c2b7d447)](https://apps.apple.com/jp/app/simpleresize/id6760907457)
 
 iOS向けのシンプルな画像リサイズアプリです。
 
